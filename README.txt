@@ -8,6 +8,6 @@ The game does not take long to load. You will be in the game when you click the 
 Mouse over a button and click on it to continue to whatever menu function you'd like
 
 Music: 
-Included please turn speakers on to hear. Cannot turn off if you would like no music just turn your speakers off.
+Included please turn on speakers to hear.
 
 ##Please make sure all the pictures and songs are in the same file as the game or else the game cannot function properly.
